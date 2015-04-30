@@ -1,0 +1,32 @@
+/* In case you are going to recompile bootstrap.css we would
+recommend to move styles from this file directly to bootstrap css.
+See comments bellow where we recommend to move them (and remove
+them from this file then). */
+
+/* scaffolding.less #26: */
+BODY {
+    padding-top: 71px;
+    height:100%;
+}
+/* scaffolding.less #end */
+.clear {
+    clear:both;
+    margin: 0 !important;
+}
+/* mixin/image.less #end */
+.textImage .pull-right {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.textImage .pull-left {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+/* type.less #end */
+.icon {
+    text-align: center;
+}
+/* type.less #end */
+.icon .fa {
+    font-size: 100px;
+}

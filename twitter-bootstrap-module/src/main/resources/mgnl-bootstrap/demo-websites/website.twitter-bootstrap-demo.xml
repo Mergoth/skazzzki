@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="twitter-bootstrap-demo" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:page</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>mix:lockable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>844d3539-b61d-45e3-9a3c-8dd90e9fd8e8</sv:value>
+  </sv:property>
+  <sv:property sv:name="containersType" sv:type="String">
+    <sv:value>container</sv:value>
+  </sv:property>
+  <sv:property sv:name="hideInNav" sv:type="Boolean">
+    <sv:value>false</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:createdBy" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2014-11-12T12:05:13.078+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2014-11-20T14:12:32.191+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:template" sv:type="String">
+    <sv:value>twitter-bootstrap:pages/tbHome</sv:value>
+  </sv:property>
+  <sv:property sv:name="siteTitle" sv:type="String">
+    <sv:value>Twitter Bootstrap on Mgnl</sv:value>
+  </sv:property>
+  <sv:property sv:name="title" sv:type="String">
+    <sv:value>Home</sv:value>
+  </sv:property>
+  <sv:node sv:name="content">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:lockable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>dcce55ce-c2da-433b-ba47-136451e065d8</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-11-12T12:48:20.525+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2014-11-12T12:48:20.525+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="00">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>70049f29-a658-457d-a815-3dd3f95dfff1</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="maxCols" sv:type="String">
+        <sv:value>1</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2014-11-20T14:02:53.961+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2014-11-20T14:02:53.961+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>Welcome</sv:value>
+      </sv:property>
+      <sv:node sv:name="row">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:area</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:lockable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ea811f51-0b63-4bb0-bf5a-f967ce23eba3</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T14:02:54.428+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T14:02:54.428+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:node sv:name="0">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:component</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>ba9f9757-1702-4b23-a8a2-116d5c22f1e9</sv:value>
+          </sv:property>
+          <sv:property sv:name="image" sv:type="String">
+            <sv:value>jcr:21f33ddf-10b0-430b-b09d-f311921c86d4</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T14:09:20.775+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T14:09:20.775+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:template" sv:type="String">
+            <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+          </sv:property>
+          <sv:property sv:name="orientation" sv:type="String">
+            <sv:value>imageOnBottom</sv:value>
+          </sv:property>
+          <sv:property sv:name="tbImageClass" sv:type="String">
+            <sv:value>img-rounded</sv:value>
+          </sv:property>
+          <sv:property sv:name="text" sv:type="String">
+            <sv:value>&lt;p&gt;Now you are on &lt;strong&gt;home page&lt;/strong&gt; which presents using of &lt;strong&gt;teasers&lt;/strong&gt;. As a first step I would recomend to go to &lt;a href="${link:{uuid:{5aaa6f68-cf5a-4dd4-bfdd-459d935d44b0},repository:{website},path:{/twitter-bootstrap-demo/sample-page},nodeData:{},extension:{html}}}"&gt;Sample page&lt;/a&gt; and see what are a basics of using TB and Magnolia, like how to work with &lt;strong&gt;rows&lt;/strong&gt; and &lt;strong&gt;compoents&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+          </sv:property>
+          <sv:property sv:name="title" sv:type="String">
+            <sv:value>on Demo page which presents Twitter Bootstrap framework running on Magnolia</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>18c1c580-9f68-4a2e-83e9-a08ac8a0a754</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="maxCols" sv:type="String">
+        <sv:value>2</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2014-11-20T11:43:02.779+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2014-11-20T11:43:02.779+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>Two teasers in one row, each of them with different style</sv:value>
+      </sv:property>
+      <sv:node sv:name="row">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:area</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:lockable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>dc5e0d3e-a610-445d-afde-7d8e931c5e88</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T11:43:03.438+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T11:43:03.438+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:node sv:name="0">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:component</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>4916b20a-d446-4a8f-b956-486e5c9011fc</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="link" sv:type="String">
+            <sv:value>5aaa6f68-cf5a-4dd4-bfdd-459d935d44b0</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:41:32.528+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:41:32.528+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:template" sv:type="String">
+            <sv:value>twitter-bootstrap:components/content/tbTeaser</sv:value>
+          </sv:property>
+          <sv:property sv:name="orientation" sv:type="String">
+            <sv:value>imageOnRight</sv:value>
+          </sv:property>
+          <sv:property sv:name="tbImageClass" sv:type="String">
+            <sv:value>img-thumbnail</sv:value>
+          </sv:property>
+          <sv:property sv:name="teaserStyle" sv:type="String">
+            <sv:value>textImage</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="00">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:component</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>15dc0a37-45d9-429c-ab13-cffeb2a5cb21</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="link" sv:type="String">
+            <sv:value>5aaa6f68-cf5a-4dd4-bfdd-459d935d44b0</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:42:25.452+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:42:25.452+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:template" sv:type="String">
+            <sv:value>twitter-bootstrap:components/content/tbTeaser</sv:value>
+          </sv:property>
+          <sv:property sv:name="orientation" sv:type="String">
+            <sv:value>imageOnLeft</sv:value>
+          </sv:property>
+          <sv:property sv:name="tbImageClass" sv:type="String">
+            <sv:value>img-rounded</sv:value>
+          </sv:property>
+          <sv:property sv:name="teaserStyle" sv:type="String">
+            <sv:value>panel</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="footer">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:lockable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>25f23dad-b273-4f70-8b7c-9eaa21c8172c</sv:value>
+    </sv:property>
+    <sv:property sv:name="copyright" sv:type="String">
+      <sv:value>Twitter Bootstrap on Magnolia Demo (by Tomas Gregovsky)</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-11-12T12:48:20.538+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2014-11-12T12:48:20.538+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>12240a7b-a6fb-4aea-8073-b8a8fc6e6490</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="maxCols" sv:type="String">
+        <sv:value>1</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2014-11-20T13:38:37.925+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2014-11-20T13:38:37.925+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+      </sv:property>
+      <sv:node sv:name="row">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:area</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:lockable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>0419cd39-1811-4c6d-85cc-f024f7f63027</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:38:38.186+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:38:38.186+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:node sv:name="0">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:component</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>f77ad9ea-3be4-4a68-882a-4bf5354860a3</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:38:57.233+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:38:57.233+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:template" sv:type="String">
+            <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+          </sv:property>
+          <sv:property sv:name="orientation" sv:type="String">
+            <sv:value>noImage</sv:value>
+          </sv:property>
+          <sv:property sv:name="tbImageClass" sv:type="String">
+            <sv:value>img-rounded</sv:value>
+          </sv:property>
+          <sv:property sv:name="text" sv:type="String">
+            <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis. Quisque neque tortor, lobortis et placerat eu, consectetur quis libero. Phasellus vel enim a lacus ultricies hendrerit at ac lacus. Donec semper purus quis ullamcorper pellentesque. Mauris ut urna quis tellus laoreet elementum eget aliquet tortor.&lt;/p&gt;
+</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="sample-page">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:page</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:lockable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>5aaa6f68-cf5a-4dd4-bfdd-459d935d44b0</sv:value>
+    </sv:property>
+    <sv:property sv:name="abstract" sv:type="String">
+      <sv:value>This page consist of multiple row filled text &amp; image components to demonstrate how to work with content and how is final page responsive. BTW: all components on this page are one same component just with different styles options.</sv:value>
+    </sv:property>
+    <sv:property sv:name="containersType" sv:type="String">
+      <sv:value>sameAsHome</sv:value>
+    </sv:property>
+    <sv:property sv:name="hideInNav" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-11-20T13:02:11.380+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2014-11-20T14:21:05.322+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:template" sv:type="String">
+      <sv:value>twitter-bootstrap:pages/tbStandard</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>Sample Page</sv:value>
+    </sv:property>
+    <sv:node sv:name="content">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:lockable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>eb65b328-48b0-4dcb-afb4-079f5e23fa01</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2014-11-20T13:02:29.305+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2014-11-20T13:02:29.305+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:node sv:name="0">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>5eb15cb4-3868-4b76-8774-d092e8aa6329</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>1</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:04:03.156+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:04:03.156+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>c89c538f-a7c0-497b-b1f2-6e69c689be04</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:04:03.309+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:04:03.309+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>12d5eb1d-4ab6-4d27-b906-91c1a6ae9a55</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:f1d153be-9bb1-4852-9ad0-1f47585583c4</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:05:10.344+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:05:10.344+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnLeft</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis. Quisque neque tortor, lobortis et placerat eu, consectetur quis libero. Phasellus vel enim a lacus ultricies hendrerit at ac lacus. Donec semper purus quis ullamcorper pellentesque. Mauris ut urna quis tellus laoreet elementum eget aliquet tortor.&lt;/p&gt;
+
+&lt;p&gt;Aliquam rhoncus odio malesuada lectus ultricies, eu commodo nisl dictum. Quisque eget nisi finibus, aliquet urna nec, commodo lorem. Integer vehicula metus dolor, nec porta massa vestibulum sed. Vivamus a commodo justo. In accumsan lorem lacus, ut rhoncus augue lobortis a. Mauris ultricies, ante vitae placerat porta, massa sapien ornare libero, sit amet semper lacus turpis ac metus. Aliquam tempor augue ante, eget sagittis est tincidunt id. Sed finibus justo et porta semper. Quisque in lorem felis. Fusce dolor eros, sagittis fermentum tortor a, sodales scelerisque purus.&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Single component in one row</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="00">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>7d6a401f-e4bd-4aa8-9e1f-f0e7441150fb</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>2</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:06:31.960+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:06:31.960+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:property sv:name="title" sv:type="String">
+          <sv:value>Row with 2 components</sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>4dc77eb3-fee0-4e8e-bb24-4e535e1468ec</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:06:32.283+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:06:32.283+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>2fa261d7-84a4-4241-b469-92fa8281958f</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:9fb9dbbb-b3db-4741-9841-4e43ba85afaa</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:07:18.643+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:07:18.643+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnTop</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-rounded</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis. Quisque neque tortor, lobortis et placerat eu, consectetur quis libero. Phasellus vel enim a lacus ultricies hendrerit at ac lacus. Donec semper purus quis ullamcorper pellentesque. Mauris ut urna quis tellus laoreet elementum eget aliquet tortor.&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="00">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>8010e604-492e-4f8c-af76-75dbe8a3c15e</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:244d0b2f-016e-4663-a828-69b3a5fcc8cc</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:07:57.654+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:07:57.655+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:07:57.654+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnTop</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-rounded</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis. Quisque neque tortor, lobortis et placerat eu, consectetur quis libero. Phasellus vel enim a lacus ultricies hendrerit at ac lacus. Donec semper purus quis ullamcorper pellentesque. Mauris ut urna quis tellus laoreet elementum eget aliquet tortor.&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="01">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>1dfb48a8-9ee4-402e-b37d-33c6b45be8ec</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>3</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:08:44.453+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:08:44.453+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:property sv:name="title" sv:type="String">
+          <sv:value>Row with 3 components</sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>d5a4bcfb-029e-47ad-8b39-6424d95061da</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:08:44.832+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:08:44.832+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>cb3ba3fc-f0b4-4a56-a1d7-9d59f3a69e83</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:41828606-775b-4e60-999f-1cb30809d5bb</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:09:48.539+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:09:48.539+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnBottom</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-circle</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="00">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>ea063173-ab89-4b2a-993c-6ca1eecc966f</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:ed640131-7de9-4c9c-829c-d48d2ed7a341</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.101+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.102+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.101+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnBottom</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-circle</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="01">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>6de6f66f-b035-41d6-8854-ef16e32cc76b</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:b9db1307-0637-46e2-8e9c-7241b7b35843</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.724+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.725+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:10:26.724+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnBottom</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-circle</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="02">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>37611026-e65c-484d-890a-fe05655547a7</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>4</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+          <sv:value>false</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+          <sv:value>2014-11-20T13:11:14.121+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:property sv:name="title" sv:type="String">
+          <sv:value>Row with 4 components</sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>b408868d-e8f8-4967-a61a-e695a231be14</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+            <sv:value>false</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+            <sv:value>2014-11-20T13:11:14.124+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>5e80cf51-0925-4865-95d1-d08ae758fbd6</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:41828606-775b-4e60-999f-1cb30809d5bb</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.125+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="00">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>15ac00c8-7a70-4f47-8645-b507e9f94b8f</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:ed640131-7de9-4c9c-829c-d48d2ed7a341</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.126+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="01">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>86b1fbc1-51d3-45c7-a6bc-43d2d7b39505</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:b9db1307-0637-46e2-8e9c-7241b7b35843</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.126+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:11:14.118+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="02">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>3814da1a-6fbe-485c-aac9-b657a09f22c9</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:e788cc15-8e57-4220-be17-5b9d7ee17c88</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:11:44.756+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:11:44.757+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:11:44.756+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="03">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>68eb4ed9-aed2-4ce6-835b-8a038fb4eaac</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>6</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+          <sv:value>false</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+          <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:property sv:name="title" sv:type="String">
+          <sv:value>Row with 6 components</sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>b3fa5539-1e9a-41b3-8fd6-d5ce917be876</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+            <sv:value>false</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+            <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>5fc062e6-627e-4718-a162-bfca0fe8b8f9</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:41828606-775b-4e60-999f-1cb30809d5bb</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="03">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>93a759e5-71d9-4123-84e1-fcd28d80124e</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:e788cc15-8e57-4220-be17-5b9d7ee17c88</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.314+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.314+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.314+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="00">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>68097ab3-d69d-4989-9649-2cd5f62ae162</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:ed640131-7de9-4c9c-829c-d48d2ed7a341</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="04">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>8265a40e-c42a-4888-a96b-08908f04633f</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:e788cc15-8e57-4220-be17-5b9d7ee17c88</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.824+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.824+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:47.824+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="01">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>95ececd4-3656-4aa1-ae2b-067e45eeebd4</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:b9db1307-0637-46e2-8e9c-7241b7b35843</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="02">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>dd9876d9-4956-422d-8b72-8c7d23d0229f</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:e788cc15-8e57-4220-be17-5b9d7ee17c88</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.937+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:13:41.935+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>noText</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-thumbnail</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="04">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>mgnl:component</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>b1fd3308-aae5-4cf3-a1e8-24acf4b7866c</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="maxCols" sv:type="String">
+          <sv:value>2</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+          <sv:value>false</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:created" sv:type="Date">
+          <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:createdBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+          <sv:value>2014-11-20T13:26:30.684+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+          <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+          <sv:value>superuser</sv:value>
+        </sv:property>
+        <sv:property sv:name="mgnl:template" sv:type="String">
+          <sv:value>twitter-bootstrap:components/row/tbRow</sv:value>
+        </sv:property>
+        <sv:property sv:name="title" sv:type="String">
+          <sv:value>Row with 1 component </sv:value>
+        </sv:property>
+        <sv:node sv:name="row">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>mgnl:area</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:lockable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>12608df7-6beb-492d-b200-c306c8f0e905</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+            <sv:value>false</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:created" sv:type="Date">
+            <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:createdBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+            <sv:value>2014-11-20T13:26:30.687+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+            <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+            <sv:value>superuser</sv:value>
+          </sv:property>
+          <sv:node sv:name="0">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>mgnl:component</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:uuid" sv:type="String">
+              <sv:value>6a5b0e1f-30d9-406a-9fe2-6c57fed09c5c</sv:value>
+            </sv:property>
+            <sv:property sv:name="divClass" sv:type="String">
+              <sv:value>col-md-offset-6 myClassForGreyBackground</sv:value>
+            </sv:property>
+            <sv:property sv:name="image" sv:type="String">
+              <sv:value>jcr:9fb9dbbb-b3db-4741-9841-4e43ba85afaa</sv:value>
+            </sv:property>
+            <sv:property sv:name="jcr:createdBy" sv:type="String">
+              <sv:value>admin</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+              <sv:value>false</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:created" sv:type="Date">
+              <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:createdBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+              <sv:value>2014-11-20T13:26:30.689+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+              <sv:value>2014-11-20T13:26:30.683+01:00</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+              <sv:value>superuser</sv:value>
+            </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+              <sv:value>twitter-bootstrap:components/content/tbTextImage</sv:value>
+            </sv:property>
+            <sv:property sv:name="orientation" sv:type="String">
+              <sv:value>imageOnTop</sv:value>
+            </sv:property>
+            <sv:property sv:name="tbImageClass" sv:type="String">
+              <sv:value>img-rounded</sv:value>
+            </sv:property>
+            <sv:property sv:name="text" sv:type="String">
+              <sv:value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et tincidunt nisl. Suspendisse vitae leo ac augue facilisis facilisis. Nam eget justo eu massa auctor sollicitudin sed non mauris. Nulla nec lacinia magna. Integer scelerisque libero eget tortor hendrerit volutpat. Sed scelerisque tempus turpis. Quisque neque tortor, lobortis et placerat eu, consectetur quis libero. Phasellus vel enim a lacus ultricies hendrerit at ac lacus. Donec semper purus quis ullamcorper pellentesque. Mauris ut urna quis tellus laoreet elementum eget aliquet tortor.&lt;/p&gt;
+</sv:value>
+            </sv:property>
+            <sv:property sv:name="title" sv:type="String">
+              <sv:value>Component with additional classes</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="footer">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:lockable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c927fb01-72b6-4032-af74-c1dba3e7e261</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2014-11-20T13:02:29.333+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2014-11-20T13:02:29.333+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>

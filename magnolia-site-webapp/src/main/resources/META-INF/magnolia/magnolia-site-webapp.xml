@@ -1,0 +1,16 @@
+<!DOCTYPE module SYSTEM "module.dtd">
+<module>
+  <name>magnolia-site-webapp</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <versionHandler>ru.skzzzzki.site.MagnoliaSiteWebappVersionHandler</versionHandler>
+  <version>${project.version}</version>
+
+  <dependencies>
+    <dependency>
+      <name>theme-skazzzki</name>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
+
+</module>

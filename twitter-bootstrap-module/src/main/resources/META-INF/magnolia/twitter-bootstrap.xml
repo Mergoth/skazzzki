@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>twitter-bootstrap</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <versionHandler>info.magnolia.twitterBootstrap.setup.TwitterBootstrapVersionHandler</versionHandler>
+  <version>${project.version}</version>
+  <properties>
+    <property>
+        <name>themeName</name>
+        <value>twitter-bootstrap</value>
+    </property>
+  </properties>
+  <dependencies>
+    <dependency>
+      <name>standard-templating-kit</name>
+      <version>2.8.3/*</version>
+    </dependency>
+  </dependencies>
+</module>

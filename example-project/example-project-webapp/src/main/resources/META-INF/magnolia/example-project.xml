@@ -1,0 +1,16 @@
+<!DOCTYPE module SYSTEM "module.dtd">
+<module>
+  <name>example-project</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <versionHandler>com.example.myproject.setup.ExampleProjectModuleVersionHandler</versionHandler>
+  <version>${project.version}</version>
+
+  <dependencies>
+    <dependency>
+      <name>fs-browser-app</name>
+      <version>1.0.1/*</version>
+    </dependency>
+  </dependencies>
+
+</module>

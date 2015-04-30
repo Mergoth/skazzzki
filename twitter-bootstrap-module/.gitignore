@@ -1,0 +1,12 @@
+bin
+target
+overlays
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+.project
+.classpath
+.settings
+webapp
